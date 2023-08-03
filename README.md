@@ -7,7 +7,10 @@ Welcome to my additional materials page! Here you can find video files visualizi
 In the videos/ folder, you can find videos showing the simulated reaction mechanism of PFOA for inert pyrolysis, reductive pyrolysis, and oxidative pyrolysis.
 
 ### HTML Files
-For a human-readable list of core species and reactions in each of the simulations, including molecule diagrams, I have included HTML files on this page under the human-readable/ folder. To look at them, you can open them in a browser, or download the files and open them locally.
+For a human-readable list of core species and reactions in each of the simulations, including molecule diagrams, I have included HTML files on this page under the human-readable/ folder. To look at them, you can prepend https://htmlpreview.github.io/? to the URL of the HTM file and open it in your browser, or download the files and open them locally.  
+E.g., [https://htmlpreview.github.io/?https://github.com/DSoiffer/wpi-reu-2023-public/blob/main/human-readable-HTML/inert-pyrolysis.htm](https://htmlpreview.github.io/?https://github.com/DSoiffer/wpi-reu-2023-public/blob/main/human-readable-HTML/inert-pyrolysis.htm)  
+I also link to the pages in the folder.
+
 
 ### Simulation Data
 I have way too many files for Github to handle gracefully (almost 6,000!). Instead, you can find my simulation results here: https://drive.google.com/drive/folders/15nH7KeGCF0kgDD7TKvfs5sL3SH38bN_T?usp=sharing  
