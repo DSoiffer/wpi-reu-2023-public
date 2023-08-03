@@ -4,12 +4,14 @@
 Welcome to my additional materials page! Here you can find video files visualizing the reactions taking place during PFOA incineration, full simulation outputs, HTML files containing a more human-readable version of some of my data, and (most importantly) citations for my poster.
 
 ### Video Files
-
-
-### Simulation Data
-
+In the videos/ folder, you can find videos showing the simulated reaction mechanism of PFOA for inert pyrolysis, reductive pyrolysis, and oxidative pyrolysis.
 
 ### HTML Files
+For a human-readable list of core species and reactions in each of the simulations, including molecule diagrams, I have included HTML files on this page under the human-readable/ folder. To look at them, you can open them in a browser, or download the files and open them locally.
+
+### Simulation Data
+I have way too many files for Github to handle gracefully (almost 6,000!). Instead, you can find my simulation results here: https://drive.google.com/drive/folders/15nH7KeGCF0kgDD7TKvfs5sL3SH38bN_T?usp=sharing
+There's a lot to look over in there. There are a number of simulations ran for several PFAS, but a focus was put on PFOA. I would recommend first looking at the far more human-readable HTML files and videos I posted on this page. If you're still interested in looking at the data, I would recommend checking PFOA/inert, PFOA/with-hydrogen, and PFOA/with-oxygen. In particular, the chemkin-annotated file shows all the core species and reactions (but less prettily than the HTML page), the seed folder shows the reaction system as it evolves over multiple iterations, and the statistics.xls files contain a spreadsheet showing time spent and number of species/reactions produced per generation.
 
 
 ### References
